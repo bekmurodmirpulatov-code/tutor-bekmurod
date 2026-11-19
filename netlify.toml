@@ -1,3 +1,4 @@
+# Netlify builds Vite's production output and serves React routes from the SPA entry point.
 [build]
   command = "npm run build"
   publish = "dist"
